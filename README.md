@@ -11,7 +11,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="right" alt="Gif" src="https://camo.githubusercontent.com/dc9571832183560826a6960b7dbd31d78f1390b966868f96aa1381d593deb947/687474703a2f2f692e696d6775722e636f6d2f36306274732e676966">
+  <img align="right" alt="Gif" src="https://giphy.com/clips/paralympics-football-goal-jefinho-upiwJqZykqpQ7x5Eis">
 </div>
   
   ##
