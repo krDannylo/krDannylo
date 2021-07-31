@@ -16,6 +16,8 @@
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="MDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="PG" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Debian" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
   <img align="center"  alt="Gif" height="30" width="40" src="https://media1.tenor.com/images/230bb0baf2e25839c8ac90591b14560e/tenor.gif?itemid=19236058">
 </div><br>
   
