@@ -1,8 +1,8 @@
 ## Hey! I'm Dannylo :D
  <div>
   <a href="https://github.com/krDannylo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krDannylo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krDannylo&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=krDannylo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krDannylo&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div><br>
  
  # What i know...
