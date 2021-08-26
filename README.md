@@ -1,4 +1,10 @@
 ## Hey! I'm Dannylo :D
+
+
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas
+- 🥰 Desenvolvedor Backend
+- 🥇 Especialista em REGEX
+
  <div>
   <a href="https://github.com/krDannylo">
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=krDannylo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
