@@ -2,7 +2,7 @@
 
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 🥰 Desenvolvedor Backend
+- 🥰 Desenvolvedor FullStack
 - 🥇 Especialista em REGEX
 
  <div>
