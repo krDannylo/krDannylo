@@ -4,7 +4,7 @@
 
 Me chamo Dannylo Torres, tenho mais de 5 anos de experiência como desenvolvedor backend, especializado em Node.js e TypeScript. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso pós-graduação em Cybersecurity.
 
-Sou apaixonado por criar soluções escaláveis e de alto impacto, já trabalhando com APIs REST, microsserviços e integrações na nuvem (AWS e Azure). No dia a dia, também exploro tecnologias como React.js, React Native, C# .NET, Java, além de bancos SQL e NoSQL.
+Tenho entusiamos em criar soluções escaláveis e de alto impacto, já trabalhando com APIs REST, microsserviços e integrações na nuvem (AWS e Azure). No dia a dia, também exploro tecnologias como React.js, React Native, C# .NET, Java, além de bancos SQL e NoSQL.
 
 No meu tempo livre, gosto de desenvolver projetos pessoais, estudar novas tecnologias e compartilhar conhecimento com outros devs. Acredito que tecnologia é tanto sobre resolver problemas quanto sobre inspirar e capacitar pessoas.
 
